@@ -1,0 +1,7 @@
+Part 1:
+1. background-color: and #0f127a are what set the background color of the whole page.
+2. The class selector is .title and the property "color:" sets the text color.
+3. It turns #0284c7, which is a darker shade of blue
+4. The property border: creates the border around the card. #ec4899 is Pink.
+5. The property font-size: controls how big the heading text is. The value assigned to it is 1.8rem.
+6. It is the property border-radius
